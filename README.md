@@ -1,6 +1,3 @@
-# PCG
-Scripts for PCG
-This will contain scripts that I share with PCG.  
 
 ==========Register_Agents Script==========
 
